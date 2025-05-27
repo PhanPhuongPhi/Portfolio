@@ -45,7 +45,11 @@
                     </h1>
                     <div class="subheading mb-5">
                         Ho Chi Minh City, 70000 · 
-                        <a href="mailto:name@email.com">phanphuongphi@gmail.com</a>
+                        <p>If you are interested in reaching out to me.</p>
+                        <a href="mailto:name@email.com">                            
+                            <li>phanphuongphi@gmail.com</li>
+                            <li>phanphuongphi@outlook.com</li>
+                        </a>
                     </div>
                     <p class="lead mb-5">I'm an IT student at the Ho Chi Minh Citty University of Management and Technology.</p>
                     <div class="social-icons">
@@ -116,7 +120,8 @@
                         <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
                         <li class="list-inline-item"><i class="fab fa-js-square"></i></li>
                         <li class="list-inline-item"><i class="fab fa-python"></i></li>
-                        <li class="list-inline-item"><i class="fab fa-react"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-SQL"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-Microsoft Office"></i></li>
                         <li class="list-inline-item" title="C++"><i class="fas fa-laptop-code"></i></li>
                         <li class="list-inline-item" title="C#"><i class="fas fa-code"></i></li>                      
                     </ul>
@@ -165,7 +170,7 @@
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             UMT Programming Olympiad 2024
-                        </li>                        
+                        </li>                          
                     </ul>
                 </div>
             </section>
